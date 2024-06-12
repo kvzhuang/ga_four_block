@@ -2,7 +2,7 @@ project_name: "ga_four"
 
 ## Connection Constants:
 constant: GA4_CONNECTION {
-  value: ""
+  value: "ga_four_connection"
   export: override_required
 }
 
